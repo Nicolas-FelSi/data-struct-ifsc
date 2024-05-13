@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715621440 source:c:\users\aluno\desktop\data-struct\data-struct-ifsc\exercicio-struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
