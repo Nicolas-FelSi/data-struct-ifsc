@@ -36,7 +36,7 @@ int main()
     }
 
     for(int i=0; i<qtd; i++){
-        printf("%d %s R$%6.2f\n", vProd[i].codigo, vProd[i].descricao, vProd[i].preco);
+        printf("%d %s R$%.2f\n", vProd[i].codigo, vProd[i].descricao, vProd[i].preco);
     }
 
 }
