@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722883689 source:c:\users\aluno\desktop\data-struct-ifsc\matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+
